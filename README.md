@@ -3,9 +3,13 @@ Implementation of homographiynet with keras
 
 # Requirement
 Keras = 2.1.2
-opencv-python = 4.2.0.32 
+
+opencv-python = 4.2.0.32
+
 还需要个coco test2017.zip
+
 下载地址： http://images.cocodataset.org/zips/test2017.zip
+
 用迅雷挺快的
 
 
