@@ -18,6 +18,12 @@ opencv-python = 4.2.0.32
 # Run
 run Demo.ipynb
 
+只需要改个图片路径就可以跑起来
+
+都在demo里面
+
+不需要预训练权重
+
 原作者的readme实在是太简洁了～
 
 啥都没有
